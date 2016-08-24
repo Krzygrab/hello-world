@@ -1,2 +1,3 @@
 # hello-world
-just some description
+just some description.
+even more description about the hello world.
